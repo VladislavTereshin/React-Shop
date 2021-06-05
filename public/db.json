@@ -1,0 +1,103 @@
+{
+  "sawarmas": [
+    {
+      "id": 0,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/s-lososem_3.png",
+      "name": "\"Лосось\"",
+      "description": "Состав:лаваш; филе лосося; сыр \"Филадельфия\"; соус \"Терияки\"; соус \"Соевый\"; томат; огурец; салат Айсберг.",
+      "types": [0],
+      "sizes": [26, 32, 40, 48],
+      "price": 200,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/karri_2.png",
+      "name": "\"Курица в кляре\"",
+      "description": "Состав:лаваш;курица в кляре;лук красный;томат;салат Айсберг;соус \"Неаполь\";соус \"Чили азиатский\".",
+      "types": [0],
+      "sizes": [26, 32, 40, 48],
+      "price": 245,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/2-sosiski.png",
+      "name": "\"Баварская\"",
+      "description": "Состав: лаваш;сосиска баварская;лук красный;томат;огурец маринованный;салат Айсберг;соус \"Неаполь\";соус \"Горчичный\".",
+      "types": [1],
+      "sizes": [26, 32, 40, 48],
+      "price": 265,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/s-guakamole_2.png",
+      "name": "\"С гуакамоле\"",
+      "description": "Состав:лаваш;мясная нарезка (на выбор);салат Айсберг;картошка фри;лук красный;перец халапеньо;томат;перец болгарский;соус \"Гуакамоле\";соус \"Неаполь\".",
+      "types": [1],
+      "sizes": [26, 32, 40, 48],
+      "price": 275,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/syrnaya-shaurma.png",
+      "name": "\"Сырная\"",
+      "description": "Состав:лаваш;куриное мясо;сыр;соус \"Терияки\";соус \"Соевый\";томат;салат Айсберг.",
+      "types": [0, 1],
+      "sizes": [26, 32, 40, 48],
+      "price": 215,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/pochti-cezar.png",
+      "name": "\"Цезарь\"",
+      "description": "Состав:лавашмясная нарезка (на выбор);салат Айсберг;огурец;томат;сыр \"Пармезан\";лук красный;соус \"Цезарь\".",
+      "types": [0],
+      "sizes": [26, 32, 40, 48],
+      "price": 280,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/da-pobolshe-vsego2.png",
+      "name": "\"Барбекю\"",
+      "description": "Состав:лавашмясная нарезка (на выбор);сыр \"Пармезан\";огурец маринованный ;томат;салат Айсберг;лук красный;соус \"BBQ\";соус \"Неаполь\".",
+      "types": [0, 1],
+      "sizes": [26, 32, 40, 48],
+      "price": 275,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/klssicheskaya.png",
+      "name": "\"Классическая\"",
+      "description": "Состав:лаваш;мясная нарезка (на выбор);салат Айсберг;огурец;томат;красный лук;соус \"Классический\".",
+      "types": [0, 1],
+      "sizes": [26, 32, 40, 48],
+      "price": 250,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://xn--80aacik2crbcyc9c1f.xn--p1ai/uploadedFiles/eshopimages/icons/275x300_cropped/pochti-cezar.png",
+      "name": "\"Мясная\"",
+      "description": "Состав: лаваш;сосиска баварская;лук красный;томат;огурец маринованный;салат Айсберг;соус \"Неаполь\";соус \"Горчичный\".",
+      "types": [0, 1],
+      "sizes": [26, 32, 40, 48],
+      "price": 295,
+      "category": 5,
+      "rating": 10
+    }
+  ]
+}
