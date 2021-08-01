@@ -25,7 +25,7 @@ const getTotalSum = (obj, path) => {
 const cart = (state = initialState, action) => {
   switch (action.type) {
     case 'ADD_SAWARMA_CART': {
-      const currentSawarmaItems = !state.items[action.payload.id]
+      const currentSawarmaItems = !state.items[action.payload.id] 
         ? [action.payload]
         : [...state.items[action.payload.id].items, action.payload];
 

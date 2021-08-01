@@ -10,7 +10,7 @@ import { fetchSawarmas} from '../redux/actions/sawarma';
 
 
 
-const categoryNames = ['Мясные', 'Гриль', 'Острые', 'Рыбные', 'Вегетарианская'];
+const categoryNames = ['Мясные', 'Гриль', 'Острые', 'Рыбные', 'Вегетарианские'];
 const sortIems = [
   { name: 'популярности', type: 'popular', order: 'desc' },
   { name: 'цене', type: 'price', order: 'desc' },

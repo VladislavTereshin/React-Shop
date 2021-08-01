@@ -1,8 +1,10 @@
 import React from 'react';
 
 import { Header } from './components';
+import { Footer } from './components';
 import { Home, Cart } from './pages';
 import { Route } from 'react-router-dom';
+
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
         <Route path="/" component={Home} exact />
         <Route path="/cart" component={Cart} exact />
       </div>
+      <Footer />
     </div>
   );
 }

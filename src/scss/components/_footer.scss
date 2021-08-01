@@ -1,0 +1,33 @@
+@import 'variables';
+
+.footer{
+    height: 140px;
+    background-color: $gray-line;
+    .container{
+        display: flex;
+    }
+}
+.rule{
+    
+    display: flex;
+    flex-direction: column;
+    h4{
+        margin: 10px 0;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+    
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    h4{
+        margin: 10px 0;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+}

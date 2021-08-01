@@ -5,6 +5,7 @@ import Button from '../Button';
 
 
 function SawarmaBlock({ id, name, imageUrl, description, price, types, sizes, onClickAddSawarma, addedCount }) {
+  
   const availableTypes = ['закрытая', 'открытая'];
   const availableSizes = [26, 32, 40, 48];
 
