@@ -13,7 +13,7 @@ export const fetchSawarmas = (sortBy, category) => (dispatch) => {
 
   axios
     .get(
-      `/sawarmas?${category !== null ? `category=${category}` : ''}&_sort=${sortBy.type}&_order=${
+      `/sawarmas?${category !== null ? `category_like=${category}` : ''}&_sort=${sortBy.type}&_order=${
         sortBy.order
       }`,
     )

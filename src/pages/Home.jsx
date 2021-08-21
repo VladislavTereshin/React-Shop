@@ -70,7 +70,7 @@ function Home() {
                 addedCount={cartItems[obj.id] && cartItems[obj.id].items.length}
                 {...obj}
               />
-            ))
+            )) 
             : Array(9)
               .fill(0)
               .map((_, index) => <LoadingBlock key={index} />)}
